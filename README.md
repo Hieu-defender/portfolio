@@ -1,2 +1,2 @@
-# portfolio
-These are the jobs I did in the group's lab environment and the certifications. Includes: DHCP, DNS, PRTG, Backup, GPO
+# Portfolio
+These are the jobs I have done in my career and the certifications.
